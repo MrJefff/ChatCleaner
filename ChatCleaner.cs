@@ -6,7 +6,7 @@ using Oxide.Core.Libraries.Covalence;
 
 namespace Oxide.Plugins
 {
-    [Info("ChatCleaner", "Wulf/lukespragg", "0.4.0", ResourceId = 1183)]
+    [Info("ChatCleaner", "Wulf/lukespragg", "0.4.0")]
     [Description("Clears/resets a player's chat when joining the server and on command")]
     public class ChatCleaner : CovalencePlugin
     {
